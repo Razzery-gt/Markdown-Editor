@@ -1,6 +1,6 @@
 # Markdown Editor
 
-Wamt to fast creating HTML? This tool will help you.
+Want to fast creating HTML? This tool will help you.
 
 ## Особенности
 
@@ -15,7 +15,7 @@ Wamt to fast creating HTML? This tool will help you.
 ## How to download?
 
 
-Если вы с Windows, то просто запустите файл EXE. Если вы с любой другой системы, то установите Python и введите в консоль команду "pip install markdown"
+If you are from Windows just launch EXE. If you are from any other system, то установите Python и введите в консоль команду "pip install markdown" and launch PY file
 
 
 ## Что делать, если я не знаю Markdown?
