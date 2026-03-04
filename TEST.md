@@ -6,7 +6,7 @@
 ###### Заголовок 6
 
 
-**жирный текст 1**
+**bold text**
 
 
 
@@ -34,19 +34,20 @@
 2. это 2 пункт
 
 
-[гиперссылка](http://example.com)
+[hyperlink](http://example.com)
 
 
 
->  это цитата
+>  quote
 
 
 
 
-это код `print('hello world')`
+code `print('hello world')`
 
 
 
 это горизонтальная линия
+
 
 ---
